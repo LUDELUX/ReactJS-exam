@@ -1,0 +1,20 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "The Matrix",
+        "description": "A sci-fi classic.",
+        "image": "/images/matrix.jpg",
+        "authorId": 123
+      }
+    ],
+    "users": [
+      {
+        "id": 123,
+        "username": "john",
+        "password": "123456",
+        "token": "your-jwt-token"
+      }
+    ]
+  }
+  
